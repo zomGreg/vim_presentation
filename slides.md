@@ -7,7 +7,7 @@
 ## Greg Moselle
 
 The purpose of this presentation is to **incite a holy crusade** where the vi
-users crush emacs users under the heels of their collective boots.
+users **crush emacs users** under the heels of their collective boots.
 
 !SLIDE
 
@@ -17,7 +17,7 @@ users crush emacs users under the heels of their collective boots.
 
 The purpose of this presentation is to inform and help sharpen your vi skills.
 
-!SLIDE
+!SLIDE left
 
 # Topics
 
