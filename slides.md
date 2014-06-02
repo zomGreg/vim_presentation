@@ -9,7 +9,7 @@
 The purpose of this presentation is to **incite a holy crusade** where the vi
 users **crush emacs users** under the heels of their collective boots.
 
-!SLIDE
+!SLIDE left
 
 # vi(m) overview
 
@@ -33,28 +33,6 @@ The purpose of this presentation is to inform and help sharpen your vi skills.
 
 5. Integration
 
-!SLIDE
+!SLIDE left
 
-# Background
-
-``` ruby
-def method
-  puts "Hello, World"
-end
-```
-
-``` python
-
-def test():
-  print "hello, world"
-```
-
-!NOTES
-
- * a note
-
-!SLIDE
-
-# With a Background Image
-
-}}} images/test.png
+vim 
